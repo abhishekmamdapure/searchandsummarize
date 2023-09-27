@@ -1,4 +1,4 @@
-# Book Search Engine by i/oFactory
+# Book Search Engine 
 
 This Streamlit app allows users to ask questions about a book and receive summarized answers from a set of documents related to the book. It utilizes OpenAI's GPT-3.5 Turbo model for text generation and Faiss for efficient similarity search. Users can customize the number of top documents to consider and the length of the generated summary.
 
